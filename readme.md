@@ -25,7 +25,7 @@ $ $(ask "macos terminal command for listing directory contents")
 ask		readme.md	test
 
 ### Getting Directions
-$ ask "how do I make jello" --glow
+$ ask "how do I make jello" --markdown --glow
 
 ```
     GENERATED CONTENT                                                                                                 
