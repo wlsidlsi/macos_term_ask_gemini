@@ -5,6 +5,7 @@
 mkdir -p ~/.bin
 cp ask ~/.bin/.
 echo "export PATH=$PATH:~/.bin" >> ~/.zprofile
+. ~/.zprofile
 ```
 
 ## Example use cases
