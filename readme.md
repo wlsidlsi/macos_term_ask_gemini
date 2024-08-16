@@ -5,6 +5,7 @@
 mkdir -p ~/.bin
 cp ask ~/.bin/.
 echo "export PATH=$PATH:~/.bin" >> ~/.zprofile
+echo "export GOOGLE_API_KEY=<YOUR API KEY>" >> ~/.zprofile
 . ~/.zprofile
 ```
 
